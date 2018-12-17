@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Premier TP\FirstTP\FirstTP\obj\Debug\FirstTP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Premier TP\FirstTP\FirstTP\bin\Debug\FirstTP.exe.config
+C:\Users\Dell\Desktop\Premier TP\FirstTP\FirstTP\bin\Debug\FirstTP.exe
+C:\Users\Dell\Desktop\Premier TP\FirstTP\FirstTP\bin\Debug\FirstTP.pdb
+C:\Users\Dell\Desktop\Premier TP\FirstTP\FirstTP\obj\Debug\FirstTP.exe
+C:\Users\Dell\Desktop\Premier TP\FirstTP\FirstTP\obj\Debug\FirstTP.pdb
+C:\Users\Dell\Desktop\Premier TP\FirstTP\FirstTP\obj\Debug\FirstTP.csprojAssemblyReference.cache
